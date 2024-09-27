@@ -52,16 +52,17 @@ Hiee 👋, myself Arindam {Xynox} Hazra aka “Noobzie Coder Boi” from India. 
     <a href="https://github.com/XynoxTheDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=XynoxTheDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-        <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
+<!--         <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
+    ![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
+    ![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
+    ![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
+    ![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
+    ![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
+    [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
+    -->
     
 </div>
