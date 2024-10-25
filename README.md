@@ -40,6 +40,7 @@ limitations under the License.
 &nbsp;
 Hiee 👋, myself Arindam {Xynox} Hazra aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ lives and discover new things to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user-friendly, and sometimes playing video games! 😄
 
+<!--
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
@@ -65,4 +66,5 @@ Hiee 👋, myself Arindam {Xynox} Hazra aka “Noobzie Coder Boi” from India. 
     [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
     -->
     
-</div>
+    </div>
+    -->
