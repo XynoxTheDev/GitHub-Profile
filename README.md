@@ -39,7 +39,7 @@ limitations under the License.
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Hiee 👋, myself Arindam {Xynox} Hazra aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those that help or entertain others to bring happiness in others’ lives and discover new things to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user-friendly, and sometimes playing video games! 😄
+Hello! 👋 I’m Arindam Hazra, also known as Xynox—a software developer from India focused on creating user-centered, impactful tech solutions. Outside of coding, I enjoy photography, singing, and occasionally unwinding with music or a good game.
 
 <!--
 ## 🔖 My Statistics
