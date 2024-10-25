@@ -21,10 +21,6 @@ limitations under the License.
     </a>
 </p>
 <p align="center">
-    <a href="https://www.xynoxthedev.xyz/">
-        <img src="https://github.com/user-attachments/assets/5880f57f-c98f-4853-a0a0-879701d1626c" width="35px" />
-    </a>
-    &nbsp;
     <a href="https://www.linkedin.com/in/arindamhazra/">
         <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="33px" />
     </a>
