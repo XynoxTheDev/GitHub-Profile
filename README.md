@@ -21,17 +21,22 @@ limitations under the License.
     </a>
 </p>
 <p align="center">
-    <a href="https://www.xynox.codes/">
-        <img src="./assets/icons/header/website.svg" width="25px" />
+    <a href="https://www.xynoxthedev.xyz/">
+        <img src="https://github.com/user-attachments/assets/5880f57f-c98f-4853-a0a0-879701d1626c" width="35px" />
     </a>
     &nbsp;
-    <a href="https://github.com/XynoxTheDev/">
-        <img src="./assets/icons/header/github.svg" width="25px" />
+    <a href="https://www.linkedin.com/in/arindamhazra/">
+        <img src="https://github.com/user-attachments/assets/32210492-00f1-4375-96d2-94da5bfc728e" width="33px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/Arindamz03/">
-        <img src="./assets/icons/header/twitter.svg" width="25px" />
+    <a href="https://www.instagram.com/xynoxthedev/">
+        <img src="https://github.com/user-attachments/assets/726a16e7-01b1-4a41-8f12-d7a1f7028f24" width="35px" />
     </a>
+    &nbsp;
+    <a href="https://x.com/Arindamz03">
+        <img src="https://github.com/user-attachments/assets/2d07aad5-db78-4e18-9b63-7fb8d455b02e" width="35px" />
+    </a>
+    &nbsp;
 </p>
 
 
