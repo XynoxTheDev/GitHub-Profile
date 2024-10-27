@@ -39,8 +39,9 @@ limitations under the License.
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Hello! 👋 I’m Arindam Hazra, also known as Xynox—a software developer from India focused on creating user-centered, impactful tech solutions. Outside of coding, I enjoy photography, singing, and occasionally unwinding with music or a good game.
-
+Hello! 👋 I’m Arindam Hazra, also known as Xynox—a fullstack developer from India focused on creating user-centered, impactful tech solutions. 
+Outside of coding, I enjoy photography, singing, and occasionally unwinding with music or a good game.
+Available for consulting and freelance projects. Let's connect if you're interested in working together or just want to chat! ✌️
 <!--
 ## 🔖 My Statistics
 &nbsp;
