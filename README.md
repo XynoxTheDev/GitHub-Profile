@@ -68,3 +68,6 @@ Available for consulting and freelance projects. Let's connect if you're interes
     [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
 </div> 
     -->
+<div align = "center">
+    <a href='https://ko-fi.com/I2I715AP90' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div> 
