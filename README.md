@@ -1,4 +1,4 @@
-<!--Copyright 2019 Arindam Hazra aka Xynox <https://xynox.codes/>
+<!--Copyright 2019 Arindam Hazra aka Xynox <https://www.xynoxthedev.xyz/>
 
 Licensed under the Apache License, Version 2.0(the "License");
 you may not use this file except in compliance with the License.
@@ -12,8 +12,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
     See the License for the specific language governing permissions and
 limitations under the License.
 -->
-
-<div align = "center">
 
 <p align="center">
     <a href="https://www.xynoxthedev.xyz/">
@@ -36,13 +34,17 @@ limitations under the License.
 </p>
 
 
+<div align = "center">
 
 ## :bust_in_silhouette: About Me
-&nbsp;
-Hello! 👋 I’m Arindam Hazra, also known as Xynox—a fullstack developer from India focused on creating user-centered, impactful tech solutions. 
+<!-- &nbsp; -->
+Hello! 👋 I’m Arindam Hazra, also known as Xynox — a fullstack developer from India focused on creating user-centered, impactful tech solutions. 
 Outside of coding, I enjoy photography, singing, and occasionally unwinding with music or a good game.
 Available for consulting and freelance projects. Let's connect if you're interested in working together or just want to chat!
-<!--
+</div>
+
+<!-- 
+<div>
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
@@ -55,19 +57,25 @@ Available for consulting and freelance projects. Let's connect if you're interes
     <a href="https://github.com/XynoxTheDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=XynoxTheDev&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-<!--         <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
+         <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
     </a>
-</p>
+</p> 
+</div>
+-->
 
-    ![](https://komarev.com/ghpvc/?username=XynoxTheDev&style=flat-square)
-    ![status](https://dev.discordprofiles.me/badge/status/594853883742912512?style=flat-square)
-    ![playing](https://dev.discordprofiles.me/badge/playing/594853883742912512?style=flat-square)
-    ![vscode](https://dev.discordprofiles.me/badge/vscode/594853883742912512?style=flat-square)
-    ![intellij](https://dev.discordprofiles.me/badge/intellij/594853883742912512?style=flat-square)
-    [![spotify](https://dev.discordprofiles.me/badge/spotify/594853883742912512?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
-</div> 
-    -->
+<div align = "center">
+
+&nbsp;
+    ![status](https://api.statusbadges.me/badge/status/594853883742912512)
+    ![vscode](https://api.statusbadges.me/badge/vscode/594853883742912512)
+    ![playing](https://api.statusbadges.me/badge/playing/594853883742912512)
+    ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/594853883742912512)
+    [![spotify](https://api.statusbadges.me/badge/spotify/594853883742912512)](https://api.statusbadges.me/openspotify/594853883742912512)
+
+</div>
+
+&nbsp;
 <div align = "center">
     <a href='https://ko-fi.com/I2I715AP90' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div> 
